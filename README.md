@@ -1,8 +1,8 @@
-
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Colton%20Baker&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Statistics%20%26%20Data%20Science%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+# Colton Baker
+
+**Statistics & Data Science | Machine Learning | AI Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-coltonbaker88-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/coltonbaker88/)
 [![Email](https://img.shields.io/badge/Email-baker.colton.8888%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baker.colton.8888@gmail.com)
@@ -14,84 +14,74 @@
 
 ## 👋 About Me
 
-I'm a **Statistics and Data Science M.S. candidate** at the University of Houston (GPA: 3.8, expected Dec 2026), focused on building AI systems that are accurate, interpretable, and production-ready. My work spans the full ML lifecycle — from statistical modeling and fine-tuning LLMs to deploying containerized applications with CI/CD pipelines.
+I'm a Statistics and Data Science M.S. student at the University of Houston (expected Dec 2026), with a background in mathematics and a focus on machine learning and AI applications.
 
-Currently contributing to **model alignment and safety** as an independent contractor at DataAnnotation, and previously built **multi-agent AI systems** at American National Insurance using LangChain, Azure AI, and FastAPI.
-
-> *I care about the intersection of rigorous statistics and practical AI engineering.*
+I enjoy working across the stack — from statistical analysis and model building to deployment — and I'm always looking to learn and improve. Currently doing model evaluation work at DataAnnotation and building on what I learned during my internship at American National Insurance last summer.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 American National Insurance — Data Analytics Intern *(Jun–Aug 2025)*
+### American National Insurance — Data Analytics Intern *(Jun–Aug 2025)*
 
-Built production AI agents embedded in an enterprise multi-agent system:
+Built AI agents integrated into an existing enterprise multi-agent system:
 
-- **RAG & SQL Agents** via LangChain integrated with GPT-4o — **85% query accuracy**, **1.3s avg latency**
-- **Full-stack deployment**: Streamlit frontend + FastAPI backend, secured with Azure AD token auth
-- **DevOps pipeline**: Docker containerization → Azure DevOps CI/CD → automated pytest testing
+- RAG & SQL agents via LangChain with GPT-4o — 85% query accuracy, 1.3s avg response latency
+- Streamlit frontend + FastAPI backend with Azure AD token authentication
+- Containerized with Docker, deployed through Azure DevOps CI/CD with automated pytest testing
 
 `LangChain` `FastAPI` `Streamlit` `GPT-4o` `Azure AI Foundry` `Docker` `Azure DevOps`
 
 ---
 
-### 🤖 DataAnnotation — Independent Contractor *(Nov 2025–Present)*
+### DataAnnotation — Independent Contractor *(Nov 2025–Present)*
 
-Contributing directly to frontier model improvement:
+Working on model evaluation and alignment tasks:
 
-- **RLHF & SFT** tasks for factuality, safety constraints, and STEM domain performance
-- Designed **system prompts** and preference datasets for reward model training
-- Built evaluation rubrics to identify **hallucinations and logic errors**
+- RLHF and SFT tasks across factuality, safety, and STEM domains
+- Prompt design and preference dataset generation for reward model training
+- Evaluation rubrics for identifying hallucinations and reasoning errors
 
 `RLHF` `SFT` `Prompt Engineering` `Model Alignment` `Safety Evaluation`
 
 ---
 
-## 🚀 Featured Projects
+## 📁 Projects
 
 | Project | Domain | Key Methods | Tools |
 |---|---|---|---|
-| [🎵 Lyric-Based Conversational AI](#) | NLP / Deep Learning | GPT fine-tuning, perplexity scoring, LSTM baseline comparison | PyTorch, Hugging Face, OpenAI API |
-| [📊 Student Career Aspirations Analysis](#) | Applied Statistics | Kruskal-Wallis, Mann-Whitney U, multivariate analysis | R, ggplot2 |
-| [🧠 Music & Mental Health Visualization](#) | Data Visualization | Correlation analysis, regression modeling | Tableau, Python |
-| [🩺 Diabetes Patient Classification](#) | Machine Learning | Random Forest, Logistic Regression, cross-validation | scikit-learn, Pandas |
+| [Lyric-Based Conversational AI](#) | NLP / Deep Learning | GPT fine-tuning, perplexity scoring, LSTM comparison | PyTorch, Hugging Face, OpenAI API |
+| [Student Career Aspirations Analysis](#) | Applied Statistics | Kruskal-Wallis, Mann-Whitney U, multivariate analysis | R, ggplot2 |
+| [Music & Mental Health Visualization](#) | Data Visualization | Correlation analysis, regression modeling | Tableau, Python |
+| [Diabetes Patient Classification](#) | Machine Learning | Random Forest, Logistic Regression, cross-validation | scikit-learn, Pandas |
 
 ---
 
-### 🎵 Lyric-Based Conversational AI
+### Lyric-Based Conversational AI
 > *Deep Learning & Artificial Neural Networks — May 2025*
 
-Fine-tuned a GPT model on artist-specific lyrical corpora to generate contextually coherent, stylistically faithful lyric responses. Rigorously evaluated against a baseline LSTM using **perplexity scores** and **cross-entropy loss**, with statistical comparison across model checkpoints.
-
-**Highlights:** Artist-style capture · Comparative model evaluation · Cross-entropy loss analysis
+Fine-tuned a GPT model on artist-specific lyric datasets and compared performance against an LSTM baseline using perplexity and cross-entropy loss metrics.
 
 ---
 
-### 📊 Analysis of Student Career Aspirations
+### Analysis of Student Career Aspirations
 > *Applied Statistics & Multivariate Analysis — May 2025*
 
-Investigated how socioeconomic background shapes career motivations using nonparametric inference. Applied **Kruskal-Wallis** and **Mann-Whitney U** tests in R with careful confounder control — finding significant patterns (p < 0.05) in career motivation but **not** in salary expectations, a nuanced and defensible finding.
-
-**Highlights:** Nonparametric testing · Confounding variable control · Statistically significant results
+Used Kruskal-Wallis and Mann-Whitney U tests in R to explore relationships between socioeconomic factors and career motivations. Found significant patterns (p < 0.05) in career motivation but not in salary expectations.
 
 ---
 
-### 🧠 Music's Effect on Mental Health
+### Music's Effect on Mental Health
 > *Data Visualization — May 2025*
 
-Explored listening habits and mental health indicators through correlation analysis and regression modeling, delivering findings as interactive Tableau dashboards designed for a non-technical audience.
-
-**Highlights:** Interactive Tableau viz · Statistical storytelling · Regression modeling
+Explored relationships between music listening habits and mental health indicators through correlation analysis and interactive Tableau dashboards.
 
 ---
 
-### 🩺 Diabetes Patient Data Analysis
+### Diabetes Patient Data Analysis
 > *Data Science II — December 2023*
 
-Built and benchmarked multiple classification models on medical patient data. Used **cross-validation** for hyperparameter tuning and evaluated models using precision, recall, and accuracy to select the best performer for clinical relevance.
-
-**Highlights:** Multi-model comparison · Cross-validation · Precision/recall trade-off analysis
+Built and compared classification models (random forest, logistic regression, decision trees) using cross-validation and evaluated on precision, recall, and accuracy.
 
 ---
 
@@ -140,8 +130,6 @@ Built and benchmarked multiple classification models on medical patient data. Us
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-*Open to full-time roles in Data Science, ML Engineering, and AI Development — graduating December 2026*
+*Currently pursuing M.S. in Statistics and Data Science at UH — open to full-time roles starting December 2026*
 
 </div>
